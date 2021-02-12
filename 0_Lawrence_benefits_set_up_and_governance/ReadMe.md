@@ -1,7 +1,4 @@
-### ONS Candidate Response Rowland
 
-## Relevant previous work examples
-[test](https://www.github.com/lawrencerowland/benefits-management/3_Lawrence-benefit-maps_examples/2019 03 Transformation portfolio _Phyllis' view.pdf)
 ## Key points
 1. Benefits often thrown over the fence after BC stage
 2. Benefit revisions often proposed but then lag
@@ -17,8 +14,6 @@
 - ONS Reference data management framework
 - make use of any internal tools. such as from [ONSDataCampus](https://datasciencecampus.github.io/projects/)
 - build on best practice for control and reporting, such as (SDG indicators)[https://onsdigital.github.io/sdg-indicators/]
-## Tool/framework used
-APM [Praxis](https://www.praxisframework.org/en/method/benefit-profile)
 ## BC stages
 • Strategic Outline Programmes (SOPs)
 • Strategic Outline Cases (SOCs)
