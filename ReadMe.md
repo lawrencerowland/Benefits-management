@@ -1,5 +1,10 @@
 # Benefits-management
  
+• Strategic Outline Programmes (SOPs)
+• Strategic Outline Cases (SOCs)
+• Outline Business Cases (OBCs)
+• Full Business Cases (FBCs).
+
  | Level      | The benefit value chain | The dis-benefit value chain | Attribute                                      | Key management focus   |
 | ---------- | ----------------------- | --------------------------- | ---------------------------------------------- | ---------------------- |
 | Portfolio  | Expected rate of return | Portfolio risk              | Correlations and dependencies between projects | Portfolio optimisation |
